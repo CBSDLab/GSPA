@@ -5,7 +5,7 @@ Green space and physical activity exploratory model for introducing leverage poi
 This model was developed during an initial Community-Based System Dynamics (CBSD) (Hovmand, 2014) workshop with faculty and staff a the Morehouse School of Medicine's Cardiovascular Institute in 2023 to introduce CBSD and explore interests in a collaboration between Morehouse School of Mecidine, Case Western Reserve and Google Research. 
 
 ## Acknowledgements
-This effort was initially supported and catalyzed through a gift from Google Research. 
+This effort was initially catalyzed and supported through a gift from Google Research. 
 
 ## References
 Hovmand, P. S. (2014). *Community based system dynamics.* Springer. 
