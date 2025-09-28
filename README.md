@@ -9,7 +9,7 @@ The model consists of two basic stock and flow structures: green space and physi
 
 <img width="810" height="650" alt="image" src="https://github.com/user-attachments/assets/dfcc48c5-dbbb-4789-ae11-744fc4aa6233" />
 
-In the online interface, there is an overall effect size (ES) of 50%, meaning one can intervene with a direct effect on the system of 50% from one intervention, 255 from two interventiosn, 16.7% from three interventions, etc. This approach penalizes adding more interventiosn that are ineffective (or even harmful despite their immediate intended benefits) in favor of higher impact from focusing interventions. 
+In the online interface, there is an overall effect size (ES) of 50%, meaning one can intervene with a direct effect on the system of 50% from one intervention, 25% from two interventiosn, 16.7% from three interventions, etc. This approach penalizes adding more interventiosn that are ineffective (or even harmful despite their immediate intended benefits) in favor of higher impact from focusing interventions. 
 
 ## Acknowledgements
 This effort was initially catalyzed and supported through a gift from Google Research. 
