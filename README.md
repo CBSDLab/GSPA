@@ -1,5 +1,5 @@
 # Green Space and Physical Activity (GSPA) Exploratory Model
-Green space and physical activity exploratory model for introducing leverage points in community-health improvement planning. The model includes an online interface that can be accessed through [isee Exchange](https://exchange.iseesystems.com/public/psh/greenspace-and-physical-activity/index.html#page1). 
+Green space and physical activity exploratory model for introducing leverage points in community-health improvement planning. The model includes an online interface that can be accessed through [isee Exchange](https://exchange.iseesystems.com/public/psh/greenspace-and-physical-activity/index.html#page1). The Stella model by clicking <a href="https://github.com/CBSDLab/GSPA/blob/main/CV%20Health%20v10.stmx" download="CV Health v10.stmx">here</a>
 
 ## Background
 This model was developed during an initial Community-Based System Dynamics (CBSD) (Hovmand, 2014) workshop with faculty and staff a the Morehouse School of Medicine's Cardiovascular Institute in 2023 to introduce CBSD and explore interests in a collaboration between Morehouse School of Mecidine, Case Western Reserve and Google Research. 
