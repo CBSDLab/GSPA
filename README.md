@@ -16,7 +16,9 @@ This effort was initially catalyzed and supported through a gift from Google Res
 
 ## References
 Hovmand, P. S. (2014). *Community based system dynamics.* Springer. 
-Donella, M. (1999). *Leverage points: places to intervene in a system.*
+
+Meadows, D. (1999). *Leverage points: places to intervene in a system.*
+
 Richardson, G. P. (2024). Building confidence in exploratory models. *System Dynamics Review, 40*(4), e1769. https://doi.org/https://doi.org/10.1002/sdr.1769 
 
 
